@@ -5,3 +5,6 @@ def sum('first_number' :+ 'second_number')
   puts "#{sum}"
 end
 
+def difference('first_number' :- 'second_number')
+  puts "#{difference}"
+end
